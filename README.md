@@ -1,1 +1,1 @@
-# CPP_Lab1
+# Cross-platform programming labs (Java & Scala)
