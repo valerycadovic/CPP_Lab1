@@ -1,1 +1,1 @@
-# Cross-platform programming labs (Java & Scala)
+# Cross-platform programming labs via Java
