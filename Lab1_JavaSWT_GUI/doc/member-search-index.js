@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"Model","c":"Triangle","l":"getArea(double, double, double)"},{"p":"Model","c":"Triangle","l":"getPerimeter(double, double, double)"},{"p":"Model","c":"Triangle","l":"Triangle()"}]

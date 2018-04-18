@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"Model","l":"Triangle"}]
